@@ -1,0 +1,1 @@
+# npscoin-core
