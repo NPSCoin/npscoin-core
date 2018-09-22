@@ -1,4 +1,4 @@
-NPSCoin Core staging tree 0.12.2
+NPSCoin Core v1.0.0.0
 ===============================
 https://npscoin.io
 
