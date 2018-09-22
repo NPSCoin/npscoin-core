@@ -1,22 +1,16 @@
 NPSCoin Core staging tree 0.12.2
 ===============================
-
-`master:` [![Build Status](https://travis-ci.org/npscoin/npscoin.svg?branch=master)](https://travis-ci.org/npscoin/npscoin) `develop:` [![Build Status](https://travis-ci.org/npscoin/npscoin.svg?branch=develop)](https://travis-ci.org/npscoin/npscoin/branches)
-
 https://npscoin.io
 
 
 What is NPSCoin?
 ----------------
 
-NPSCoin is an experimental new digital currency that enables anonymous, instant
-payments to anyone, anywhere in the world. NPSCoin uses peer-to-peer technology
-to operate with no central authority: managing transactions and issuing money
-are carried out collectively by the network. NPSCoin Core is the name of the open
-source software which enables the use of this currency.
+NPSCoin is a cryptocurrency aims to provide masternode investors powerful, scalable, flexible technological infrastructure service.
 
-For more information, as well as an immediately useable, binary version of
-the NPSCoin Core software, see https://npscoin.io/get-npscoin/.
+The main idea behind NPSCoin is to make deploying, running, managing and monitoring the masternode as simple and intuitive as possible. By offering a suite of infrastructure services, NPSCoin helps masternode investors to break technological barriers and make maximize income.
+
+Also a cryptocureency, NPSCoin is a PoW coin using Lyra2Z algorithm and has 50% Masternode reward.
 
 
 License
