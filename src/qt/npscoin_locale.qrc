@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/npscoin_bg.qm</file>
+        <file alias="de">locale/npscoin_de.qm</file>
+        <file alias="en">locale/npscoin_en.qm</file>
+        <file alias="es">locale/npscoin_es.qm</file>
+        <file alias="fi">locale/npscoin_fi.qm</file>
+        <file alias="fr">locale/npscoin_fr.qm</file>
+        <file alias="it">locale/npscoin_it.qm</file>
+        <file alias="ja">locale/npscoin_ja.qm</file>
+        <file alias="pl">locale/npscoin_pl.qm</file>
+        <file alias="pt">locale/npscoin_pt.qm</file>
+        <file alias="ru">locale/npscoin_ru.qm</file>
+        <file alias="sk">locale/npscoin_sk.qm</file>
+        <file alias="sv">locale/npscoin_sv.qm</file>
+        <file alias="vi">locale/npscoin_vi.qm</file>
+        <file alias="zh_CN">locale/npscoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/npscoin_zh_TW.qm</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+usr/local/bin/npscoin-qt usr/bin
+share/pixmaps/npscoin32.xpm usr/share/pixmaps
+share/pixmaps/npscoin16.xpm usr/share/pixmaps
+share/pixmaps/npscoin128.png usr/share/pixmaps
+debian/npscoin-qt.desktop usr/share/applications
+debian/npscoin-qt.protocol usr/share/kde4/services/

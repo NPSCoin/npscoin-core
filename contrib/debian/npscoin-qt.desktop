@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=NPSCoin
+Comment=NPSCoin P2P Cryptocurrency
+Comment[fr]=NPSCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=NPSCoin, eşten eşe kriptografik sanal para birimi
+Exec=npscoin-qt %u
+Terminal=false
+Type=Application
+Icon=npscoin128
+MimeType=x-scheme-handler/npscoin;
+Categories=Office;Finance;
