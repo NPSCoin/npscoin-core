@@ -3,7 +3,7 @@ Shared Libraries
 
 ## npscoinconsensus
 
-The purpose of this library is to make the verification functionality that is critical to Criptoreal's consensus available to other applications, e.g. to language bindings.
+The purpose of this library is to make the verification functionality that is critical to NPSCoin's consensus available to other applications, e.g. to language bindings.
 
 ### API
 

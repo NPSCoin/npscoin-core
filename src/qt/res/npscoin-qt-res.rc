@@ -18,14 +18,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Criptoreal"
-            VALUE "FileDescription",    "Criptoreal Core (GUI node for Criptoreal)"
+            VALUE "CompanyName",        "NPSCoin"
+            VALUE "FileDescription",    "NPSCoin Core (GUI node for NPSCoin)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "npscoin-qt"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
             VALUE "OriginalFilename",   "npscoin-qt.exe"
-            VALUE "ProductName",        "Criptoreal Core"
+            VALUE "ProductName",        "NPSCoin Core"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END
